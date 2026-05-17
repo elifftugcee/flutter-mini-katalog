@@ -107,7 +107,7 @@ flutter analyze
 
 | Ürün Detay | Sepet (Dolu) | Sepet (Boş) | Profil |
 |:----------:|:------------:|:-----------:|:------:|
-| ![Ürün](screenshots/urun_sayfasi.png) | ![Sepet](screenshots/sepet_dolu.png) | ![Boş](screenshots/sepetim_bos.png) | ![Profil](screenshots\profil.png) |
+| ![Ürün](screenshots/urun_sayfasi.png) | ![Sepet](screenshots/sepet_dolu.png) | ![Boş](screenshots/sepetim_bos.png) | ![Profil](screenshots\Profil.png) |
 
 ---
 
